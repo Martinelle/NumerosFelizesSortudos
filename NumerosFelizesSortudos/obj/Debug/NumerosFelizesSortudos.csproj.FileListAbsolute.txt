@@ -1,0 +1,6 @@
+c:\users\diego\documents\visual studio 2015\Projects\NumerosFelizesSortudos\NumerosFelizesSortudos\bin\Debug\NumerosFelizesSortudos.exe.config
+C:\Users\diego\documents\visual studio 2015\Projects\NumerosFelizesSortudos\NumerosFelizesSortudos\obj\Debug\NumerosFelizesSortudos.csprojResolveAssemblyReference.cache
+C:\Users\diego\documents\visual studio 2015\Projects\NumerosFelizesSortudos\NumerosFelizesSortudos\bin\Debug\NumerosFelizesSortudos.exe
+C:\Users\diego\documents\visual studio 2015\Projects\NumerosFelizesSortudos\NumerosFelizesSortudos\bin\Debug\NumerosFelizesSortudos.pdb
+C:\Users\diego\documents\visual studio 2015\Projects\NumerosFelizesSortudos\NumerosFelizesSortudos\obj\Debug\NumerosFelizesSortudos.exe
+C:\Users\diego\documents\visual studio 2015\Projects\NumerosFelizesSortudos\NumerosFelizesSortudos\obj\Debug\NumerosFelizesSortudos.pdb
